@@ -1,3 +1,4 @@
 Doc2
 --------------------------
-uncommitted changes in branch: master
+Committed changes in branch: master
+New changes in branch: NewTest
