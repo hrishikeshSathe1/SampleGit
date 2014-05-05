@@ -2,3 +2,5 @@ Doc2
 --------------------------
 Committed changes in branch: master
 New changes in branch: NewTest
+merged changes in branch: test
+
