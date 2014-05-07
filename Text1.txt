@@ -4,3 +4,5 @@ New user.
 hrishi
 ---------------------
 Changes visible in branch: Test
+Test stashing
+7+5=12
